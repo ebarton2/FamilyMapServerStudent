@@ -1,0 +1,10 @@
+[Thu Apr 08 13:16:59 MDT 2021] - INFO passoff.ServerTest: 	Setting up Persistence Test...
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Proxy: 	Clear called
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Post without Request Body called
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Attempting to open connection to server
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Connection opened to server
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Setting passoffrequest method to POST
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Request method set to POST
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Setting Do Output to true
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Do Output set to true
+[Thu Apr 08 13:16:59 MDT 2021] - INFO client.Client: 	Connecting to server

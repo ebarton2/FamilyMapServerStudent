@@ -1,0 +1,55 @@
+
+5
+java:S2119„"Save and re-use this "Random".(®ÌÕÖ
+S	java:S107"=Method has 10 parameters, which is greater than 7 authorized.(ó‘À
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ø†ùŒ
+Œ
+java:S1130d"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Òùúõ
+K
+java:S2209~"5Change this instance-reference to a static reference.(‘¬…»
+Q
+java:S2209¦"5Change this instance-reference to a static reference.(ˆî®Íùÿÿÿÿ
+5
+java:S2119à"Save and re-use this "Random".(®ÌÕÖ
+^
+java:S2095&"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ñ«±‰
+Q
+java:S2209Ë"5Change this instance-reference to a static reference.(ÚæÌ”ÿÿÿÿÿ
+\
+java:S1126^"AReplace this if-then-else statement by a single return statement.(ŞŸÖ¿øÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(êœÅ°
+B
+java:S2440£"+Remove this instantiation of "IDGenerator".(¥˜ØÏ
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(£ÌáĞ
+e
+java:S3008"ORename this field "YEAR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥úôİ
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(å¦’§
+j
+java:S3008"TRename this field "YEAR_DIFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†œÂ¸
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(Ñäšƒûÿÿÿÿ
+A
+java:S2440}"+Remove this instantiation of "IDGenerator".(¥˜ØÏ
+c
+java:S2095'"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ß®Êüúÿÿÿÿ
+r	java:S116"]Rename this field "total_events_added" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›íì
+N
+java:S1128",Remove this unused import 'java.sql.Struct'.(Í‘©–ûÿÿÿÿ8‡œÑÓŠ/
+Q
+java:S2209¥"5Change this instance-reference to a static reference.(ÿ…ì­ÿÿÿÿÿ
+M
+java:S1135$"2Complete the task associated to this TODO comment.(ì…‡Õùÿÿÿÿ
+B
+java:S2440ˆ"+Remove this instantiation of "IDGenerator".(ÚŞğ»
+L
+java:S2209‰"5Change this instance-reference to a static reference.(øÛäš
+q	java:S116"]Rename this field "total_people_added" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ’¾~
+L
+java:S2209Ñ"5Change this instance-reference to a static reference.(´‡èØ
+^
+java:S2095%"HUse try-with-resources or close this "FileReader" in a "finally" clause.(õª­½
+L
+java:S2209Å"5Change this instance-reference to a static reference.(‘øº
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ğ…Àüÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(¾ÂŠ‚úÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(èöÌüÿÿÿÿ

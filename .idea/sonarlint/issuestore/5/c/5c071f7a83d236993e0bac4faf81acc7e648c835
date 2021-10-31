@@ -1,0 +1,9 @@
+
+…
+java:S1319"oThe type of the "data" object should be an interface such as "List" rather than the implementation "ArrayList".(ÇÛ’Å
+†
+java:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šýñÅ
+E
+java:S3740="/Provide the parametrized type for this generic.(¤¨Îá
+J
+java:S3740*"/Provide the parametrized type for this generic.(¤‚œ¹ÿÿÿÿÿ

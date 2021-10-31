@@ -1,0 +1,21 @@
+
+B
+java:S2440/",Remove this instantiation of "ResponseBody".(±¡¤ã
+B
+java:S2440:",Remove this instantiation of "ResponseBody".(±¡¤ã
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+N
+java:S1128"8Remove this unused import 'UtilityFunctions.JsonOutput'.(¦·Õ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+P
+java:S2209;"5Change this instance-reference to a static reference.(™­İ›şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’¦Ë«
+P
+java:S22090"5Change this instance-reference to a static reference.(™­İ›şÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Óº£‰ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”›¥¹ûÿÿÿÿ

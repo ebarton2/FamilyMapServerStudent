@@ -1,0 +1,42 @@
+create table users(
+	username varchar(255) not null,
+	password varchar(255) not null,
+	email varchar(255) not null,
+	first_name varchar(255) not null,
+	last_name varchar(255) not null,
+	gender char not null,
+	person_id varchar(16) not null,
+	check (gender = "m" or gender = "f")
+);
+
+create table person
+(
+	person_id varchar(255) not null,
+	associated_username varchar(255) not null,
+	first_name varchar(255) not null,
+	last_name varchar(255) not null,
+	gender char not null,
+	father_id varchar(16),
+	mother_id varchar(16),
+	spouse_id varchar(16),
+	check (gender = "m" or gender = "f")
+);
+
+create table events
+(
+	event_id varchar(255) not null,
+	associated_username varchar(255) not null,
+	person_id varchar(16) not null,
+	latitude float not null,
+	longitude float not null,
+	country varchar(255) not null,
+	city varchar(255) not null,
+	event_type varchar(255) not null,
+	year integer not null
+);
+
+create table auth_key 
+(
+	username varchar(255) not null,
+	authentication_key varchar(255) not null
+);

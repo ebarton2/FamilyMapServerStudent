@@ -1,0 +1,12 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(à˜¸Âüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ùÈ¨,8Â¸«—‹/
++
+java:S1700	"Rename field "server"(¦ºËÁ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–¢ò¬ıÿÿÿÿ
+k
+java:S1450	"URemove the "server" field and declare it as a local variable in the relevant methods.(¦ºËÁ
+S
+java:S1197%"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
